@@ -111,6 +111,18 @@ Features:
 * Receipt generation
 
 ---
+### 🔹 Pixel Dodge – 2D Arcade Survival Game
+
+A fast-paced 2D arcade dodge game built with **React and TypeScript** where players survive waves of hazards while collecting coins and upgrading abilities.
+
+Features:
+
+* Real-time dodge survival gameplay
+* Multiple hazards like bubbles, meteors, and drones
+* Coin collection and upgrade system
+* Player skins and progression system
+* Firebase leaderboard to track high scores
+---
 
 ## 📈 Goals
 
