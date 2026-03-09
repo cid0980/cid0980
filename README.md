@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Cid 👋
 
-<!--
-**cid0980/cid0980** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA Final Year Student  
+📱 Flutter Developer  
+⚙️ Backend: Node.js, Express.js  
+🗄️ Databases: MongoDB, MySQL, SQLite  
 
-Here are some ideas to get you started:
+## Projects
+🔹 BlueMark – College Attendance Management System  
+🔹 TUNO – Real-time Chat App (Flutter + Firebase)  
+🔹 ComicVerse – Anime Content E-commerce UI  
+🔹 FoodVerse – Food Delivery UI App  
+🔹 Billing System – Python POS Software  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- Flutter & Dart
+- Python
+- Node.js & Express
+- MongoDB
+- REST APIs
+- JWT Authentication
+
+## Currently Learning
+Backend architecture and scalable system design.
