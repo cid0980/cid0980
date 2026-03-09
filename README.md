@@ -19,20 +19,13 @@ I enjoy building **mobile apps, backend systems, games, and machine learning pro
 
 ## 🛠 Tech Stack
 
-**Languages**
-Dart  Python  JavaScript / TypeScript
-
-**Mobile**
-Flutter  Firebase
-
-**Backend**
-Node.js  Express  REST APIs  JWT Authentication
-
-**Databases**
-MongoDB  MySQL  SQLite
-
-**Tools**
-Git  GitHub  VS Code  Linux
+| Category      | Technologies                                    |
+| ------------- | ----------------------------------------------- |
+| **Languages** | Dart, Python, JavaScript / TypeScript           |
+| **Mobile**    | Flutter, Firebase                               |
+| **Backend**   | Node.js, Express, REST APIs, JWT Authentication |
+| **Databases** | MongoDB, MySQL, SQLite                          |
+| **Tools**     | Git, GitHub, VS Code, Linux                     |
 
 ---
 
