@@ -2,136 +2,37 @@
 
 💻 **BCA Final Year Student**
 📱 **Flutter & Full-Stack Developer**
-⚙️ I enjoy building mobile apps, backend systems, and practical software projects.
+
+I enjoy building **mobile apps, backend systems, games, and machine learning projects.**
 
 ---
 
-## 🚀 About Me
+## 🛠 Tech Stack
 
-* 🎓 BCA student focused on **mobile and backend development**
-* 📱 Build apps using **Flutter & Firebase**
-* 🔐 Interested in **backend systems, APIs, and security**
-* 🧠 Prefer learning by **building real projects**
-
----
-
-## 🛠️ Tech Stack
-
-**Languages**
-
-* Dart
-* Python
-* JavaScript / TypeScript
-
-**Mobile Development**
-
-* Flutter
-* Firebase Authentication
-* Real-time Databases
-
-**Backend**
-
-* Node.js
-* Express.js
-* REST API Development
-* JWT Authentication
-
-**Databases**
-
-* MongoDB
-* MySQL
-* SQLite
-
-**Tools**
-
-* Git & GitHub
-* VS Code
-* Linux
+**Languages:** Dart, Python, JavaScript / TypeScript
+**Mobile:** Flutter, Firebase
+**Backend:** Node.js, Express, REST APIs
+**Databases:** MongoDB, MySQL, SQLite
+**Tools:** Git, GitHub, VS Code, Linux
 
 ---
 
-## 📦 Featured Projects
+## 📦 Projects
 
-### 🔹 BlueMark – Attendance Management System
+🔹 **BlueMark** – Role-based attendance management system for colleges.
 
-A role-based college attendance system with different access levels.
+🔹 **TUNO** – Flutter real-time chat app using Firebase and Google authentication.
 
-Features:
+🔹 **ComicVerse** – Anime content browsing app for manga, novels, and webtoons.
 
-* Principal / HOD / Staff / Student roles
-* Unique ID login system
-* Attendance tracking and management
+🔹 **Foodverse** – Full-stack food delivery platform (Node.js · Express · MongoDB · React).
 
----
+🔹 **Pixel Dodge** – 2D arcade survival game built with React and TypeScript.
 
-### 🔹 TUNO – Real-Time Chat Application
-
-A messaging app built with Flutter and Firebase.
-
-Features:
-
-* Google authentication
-* Real-time messaging
-* Profile and bio synchronization
-
----
-
-### 🔹 ComicVerse – Anime Content App
-
-An anime-themed mobile app built in Flutter.
-
-Features:
-
-* Browse manga, novels, and webtoons
-* Shopping-style UI with cart system
-* Search and category browsing
-
----
-
-### 🔹 FoodVerse – Food Delivery UI
-
-Frontend-focused Flutter app that simulates a food ordering platform.
-
-Features:
-
-* Food categories and listings
-* Ratings and product pages
-* Cart and order flow simulation
-
----
-
-### 🔹 Python Billing System
-
-A simple desktop POS billing software.
-
-Features:
-
-* Item billing system
-* Database storage
-* Receipt generation
-
----
-### 🔹 Pixel Dodge – 2D Arcade Survival Game
-
-A fast-paced 2D arcade dodge game built with **React and TypeScript** where players survive waves of hazards while collecting coins and upgrading abilities.
-
-Features:
-
-* Real-time dodge survival gameplay
-* Multiple hazards like bubbles, meteors, and drones
-* Coin collection and upgrade system
-* Player skins and progression system
-* Firebase leaderboard to track high scores
----
-
-## 📈 Goals
-
-* Improve backend architecture skills
-* Build scalable APIs
-* Work on real-world full-stack systems
+🔹 **Crop Yield Prediction** – Machine learning model in Python to predict agricultural yield.
 
 ---
 
 ## 📫 Contact
 
-📧 Email: **[asencid07@gmail.com](mailto:asencid07@gmail.com)**
+📧 **[asencid07@gmail.com](mailto:asencid07@gmail.com)**
