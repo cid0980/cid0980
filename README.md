@@ -1,6 +1,5 @@
 # Hi, I'm Asen 👋
 
-💻 **BCA Final Year Student**
 📱 **Flutter & Full-Stack Developer**
 
 I enjoy building **mobile apps, backend systems, games, and machine learning projects.**
