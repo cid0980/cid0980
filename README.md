@@ -4,6 +4,8 @@
 
 I enjoy building **mobile apps, backend systems, games, and machine learning projects.**
 
+![](https://komarev.com/ghpvc/?username=cid0980&color=blue&style=flat)
+
 ---
 
 ## 🚀 About Me
@@ -13,6 +15,30 @@ I enjoy building **mobile apps, backend systems, games, and machine learning pro
 * ⚙️ Develop backend systems with **Node.js and Express**
 * 🤖 Exploring **machine learning with Python**
 * 🧠 Prefer learning by **building real projects**
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=cid0980&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=cid0980&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cid0980&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=cid0980&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cid0980&theme=tokyo-night" alt="Contribution Graph" />
+</p>
 
 ---
 
