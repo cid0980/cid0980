@@ -1,8 +1,8 @@
 # Hi, I'm Asen 👋
 
-📱 **Flutter & Full-Stack Developer**
+💻 **Software Developer** — open to every language & stack
 
-I enjoy building **mobile apps, backend systems, games, and machine learning projects.**
+I enjoy building **mobile apps, backend systems, games, and machine learning projects** — and I'm always picking up new languages and tools. Not limited to one stack: if it solves the problem, I'll learn it and ship it.
 
 ![](https://komarev.com/ghpvc/?username=cid0980&color=blue&style=flat)
 
